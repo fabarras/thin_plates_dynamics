@@ -1,0 +1,10 @@
+name: kirchhoff
+dependencies:
+  - python==3.*
+  - numpy
+  - scipy
+  - sympy
+  - pip
+  - pip:
+    - matplotlib
+    - tqdm
